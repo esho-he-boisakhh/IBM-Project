@@ -33,15 +33,15 @@ Optional live practice targets (legal to test): `http://testphp.vulnweb.com`, `h
 ## Setup and Run Instructions
 
 ```bash
-# 1. (Optional) creates a virtual environment
-python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
+## 1. (Optional) creates a virtual environment
+python -m venv .venv
+.venv\Scripts\activate
 
-# 2. Install dependencies
+## 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Launch the notebook
-jupyter notebook YourName_WebSecurityScanner.ipynb
+## 3. Launch the notebook
+jupyter notebook Prabrisha_Bharadwaj_WebSecurityScanner.ipynb
 ```
 
 Run all cells (**Kernel > Restart & Run All**). The notebook will:
@@ -64,7 +64,7 @@ Run all cells (**Kernel > Restart & Run All**). The notebook will:
 
 | File | Purpose |
 |---|---|
-| `YourName_WebSecurityScanner.ipynb` | Complete project code |
+| `Prabrisha_Bharadwaj_WebSecurityScanner.ipynb` | Complete project code |
 | `requirements.txt` | Python dependencies |
-| `YourName_ProjectReport.docx` | Full project documentation |
+| `YPrabrisha_Bharadwaj_ProjectReport.docx` | Full project documentation |
 | `README.md` | This file |
