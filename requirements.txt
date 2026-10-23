@@ -1,0 +1,6 @@
+requests
+pandas
+matplotlib
+urllib3
+notebook
+ipykernel
